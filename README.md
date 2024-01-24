@@ -1,0 +1,1 @@
+![training pipeline] rsna_pipeline.jpeg
