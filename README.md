@@ -1,1 +1,1 @@
-<img align="left" width="480" height="170" src="https://github.com/MenghaoZhao/RSNA2023kaggle/blob/master/rnsa_pipeline.jpeg">
+<img align="left" width="960" height="640" src="https://github.com/MenghaoZhao/RSNA2023kaggle/blob/master/rnsa_pipeline.jpeg">
